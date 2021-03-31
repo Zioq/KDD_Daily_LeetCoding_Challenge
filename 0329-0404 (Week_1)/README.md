@@ -12,4 +12,4 @@ ex) RobertHan
             |__solution.py
 ```
 
-* Every day mid-night, updated records/files will be displayed root repository README with table format.
+* Every day midnight, updated records/files will be displayed root repository README with table format.
