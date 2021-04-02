@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj",
-      "projectName": "TwoSumsSolution",
-      "projectPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj",
+      "projectUniqueName": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\141.LinkedListCycle\\LinkedListCycleSolution\\LinkedListCycleSolution\\LinkedListCycleSolution.csproj",
+      "projectName": "LinkedListCycleSolution",
+      "projectPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\141.LinkedListCycle\\LinkedListCycleSolution\\LinkedListCycleSolution\\LinkedListCycleSolution.csproj",
       "packagesPath": "C:\\Users\\hyeon\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\obj\\",
+      "outputPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\141.LinkedListCycle\\LinkedListCycleSolution\\LinkedListCycleSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hyeon\\AppData\\Roaming\\NuGet\\NuGet.Config",

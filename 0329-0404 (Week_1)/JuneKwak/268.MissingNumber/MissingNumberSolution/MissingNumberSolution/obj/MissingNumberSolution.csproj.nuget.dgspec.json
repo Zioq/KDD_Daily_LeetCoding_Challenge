@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj": {}
+    "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\268.MissingNumber\\MissingNumberSolution\\MissingNumberSolution\\MissingNumberSolution.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj": {
+    "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\268.MissingNumber\\MissingNumberSolution\\MissingNumberSolution\\MissingNumberSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj",
-        "projectName": "TwoSumsSolution",
-        "projectPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\TwoSumsSolution.csproj",
+        "projectUniqueName": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\268.MissingNumber\\MissingNumberSolution\\MissingNumberSolution\\MissingNumberSolution.csproj",
+        "projectName": "MissingNumberSolution",
+        "projectPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\268.MissingNumber\\MissingNumberSolution\\MissingNumberSolution\\MissingNumberSolution.csproj",
         "packagesPath": "C:\\Users\\hyeon\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\001.TwoSums\\TwoSumsSolution\\TwoSumsSolution\\obj\\",
+        "outputPath": "D:\\CSharp\\LeetcodePractice\\0329-0404 (Week_1)\\JuneKwak\\268.MissingNumber\\MissingNumberSolution\\MissingNumberSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hyeon\\AppData\\Roaming\\NuGet\\NuGet.Config",
