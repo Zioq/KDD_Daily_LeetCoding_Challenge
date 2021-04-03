@@ -17,3 +17,7 @@
 ### Thursday
 
 `Dynamic Programming` *322.Coin Change*
+
+### Friday
+
+`Dynamic Programming` *300.Longest Increasing Subsequence*
