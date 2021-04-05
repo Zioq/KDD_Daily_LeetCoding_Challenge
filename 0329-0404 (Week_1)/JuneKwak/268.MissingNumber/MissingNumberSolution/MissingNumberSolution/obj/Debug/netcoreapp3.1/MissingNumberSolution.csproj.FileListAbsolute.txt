@@ -1,0 +1,13 @@
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.exe
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.deps.json
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.runtimeconfig.json
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.runtimeconfig.dev.json
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.dll
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\bin\Debug\netcoreapp3.1\MissingNumberSolution.pdb
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.csprojAssemblyReference.cache
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.AssemblyInfoInputs.cache
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.AssemblyInfo.cs
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.csproj.CoreCompileInputs.cache
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.dll
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.pdb
+D:\CSharp\LeetcodePractice\0329-0404 (Week_1)\JuneKwak\268.MissingNumber\MissingNumberSolution\MissingNumberSolution\obj\Debug\netcoreapp3.1\MissingNumberSolution.genruntimeconfig.cache
