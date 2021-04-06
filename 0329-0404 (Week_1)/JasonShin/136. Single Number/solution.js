@@ -5,6 +5,7 @@
  * @param {number[]} nums
  * @return {number}
  */
+//Hash Table
  var singleNumber = function(nums) {
     if(nums.length === 1){
         return nums[0];
@@ -26,9 +27,9 @@
         }
     }
 };
-
+//Bit manipulation
 //Other solution in discussion board.
-//This is using bitwise XOR. 
+//This is using bitwise XOR.
 //Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR
 function singleNumber(nums) {
 	return nums.reduce((prev, curr) => prev ^ curr);
