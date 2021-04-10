@@ -40,7 +40,7 @@ class Solution:
         else:
             return head
 
-# Another Solution using a two pointer
+# Another Solution using a two pointer(slow, fast)
 
 class Solution:
     def middleNode(self, head: ListNode):
