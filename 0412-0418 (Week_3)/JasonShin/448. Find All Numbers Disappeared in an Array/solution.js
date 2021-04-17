@@ -49,3 +49,30 @@
     
 };
 
+//3rd Solution
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+ var findDisappearedNumbers = function(nums) {
+    
+    let missingNums = new Array();
+    
+    for(let i = 1; i <= nums.length; i++){
+        missingNums.push(i);
+    }
+    
+   for(num of nums){
+    missingNums[num-1] = -1
+   }
+    
+   return missingNums.filter(num => num !== -1);
+   
+   /**
+    * Time complexity: O(n)
+    * space complexity: O(n)
+    * No extra space.
+    */
+};
+
+
